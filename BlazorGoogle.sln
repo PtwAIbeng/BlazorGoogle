@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogle", "BlazorGoogle\BlazorGoogle.csproj", "{2D4202C1-E6EA-49DD-9EEF-50037CAB6F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogle.Development", "BlazorGoogle.Development\BlazorGoogle.Development.csproj", "{FC6C7458-21EE-4FE7-BA24-A8A319C43664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppAuth", "BlazorAppAuth\BlazorAppAuth.csproj", "{38B77C8A-7661-440B-B014-63DEFE2E55CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicWebAPI", "PublicWebAPI\PublicWebAPI.csproj", "{823AE33C-77C9-4993-BC60-CD752BF908A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4202C1-E6EA-49DD-9EEF-50037CAB6F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4202C1-E6EA-49DD-9EEF-50037CAB6F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4202C1-E6EA-49DD-9EEF-50037CAB6F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4202C1-E6EA-49DD-9EEF-50037CAB6F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6C7458-21EE-4FE7-BA24-A8A319C43664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6C7458-21EE-4FE7-BA24-A8A319C43664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6C7458-21EE-4FE7-BA24-A8A319C43664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6C7458-21EE-4FE7-BA24-A8A319C43664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B77C8A-7661-440B-B014-63DEFE2E55CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B77C8A-7661-440B-B014-63DEFE2E55CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B77C8A-7661-440B-B014-63DEFE2E55CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B77C8A-7661-440B-B014-63DEFE2E55CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823AE33C-77C9-4993-BC60-CD752BF908A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823AE33C-77C9-4993-BC60-CD752BF908A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823AE33C-77C9-4993-BC60-CD752BF908A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823AE33C-77C9-4993-BC60-CD752BF908A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
